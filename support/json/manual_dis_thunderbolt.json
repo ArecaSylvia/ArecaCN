@@ -1,0 +1,50 @@
+[
+	{
+		"item":"ARC-5026 Specification",
+		"route":"https://www.areca.us/support/download/storage/doc/ARC-5026_specification.zip",
+		"version":"1.0",
+		"date":"2013/10/01"
+	},
+	{
+		"item":"ARC-5026 Installation Guide",
+		"route":"https://www.areca.us/support/download/storage/doc/ARC-5026_installation_guide.zip",
+		"version":"1.2",
+		"date":"2014/07/17"
+	},
+	{
+		"item":"ARC-5026 User Manual",
+		"route":"https://www.areca.us/support/download/storage/doc/ARC-5026_manual.zip",
+		"version":"1.2",
+		"date":"2018/01/10"
+	},
+	{
+		"item":"ARC-5028T2 Installation Guide",
+		"route":"https://www.areca.us/support/download/storage/doc/ARC-5028T2_installation_guide.zip",
+		"version":"1.1",
+		"date":"2015/03/19"
+	},
+	{
+		"item":"ARC-5028T2 User Manual",
+		"route":"https://www.areca.us/support/download/storage/doc/ARC-5028T2_manual.zip",
+		"version":"1.1",
+		"date":"2018/01/10"
+	},
+	{
+		"item":"CLI Utility User Manual",
+		"route":"https://www.areca.us/support/download/adapter/doc/CLI_manual.zip",
+		"version":"5.1",
+		"date":"2020/04/20"
+	},
+	{
+		"item":"LCD Manual",
+		"route":"https://www.areca.us/support/download/adapter/doc/LCD_manual.zip",
+		"version":"1.3",
+		"date":"2015/10/20"
+	},
+	{
+		"item":"ArcSAP User Manual",
+		"route":"https://www.areca.us/support/download/storage/doc/ArcSAP_manual.pdf",
+		"version":"4.2",
+		"date":"2020/11/03"
+	}
+]

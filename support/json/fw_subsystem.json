@@ -1,0 +1,31 @@
+[
+	{
+		"item":"ARC-8068 firmware",
+		"route":"https://www.areca.us/support/download/storage/fw/ARC-8066_fw.zip",
+		"version":"1.56",
+		"date":"2019/07/23",
+		"remark":""
+	},
+	{
+		"item":"ARC-8380 / 8088-SAS / ARC-92xx-SAS firmware (12G SAS-to-SAS)",
+		"route":"https://www.areca.us/support/download/storage/fw/ARC-8380_fw.zip",
+		"version":"1.56",
+		"date":"2020/05/14",
+		"remark":"Support new flash chip"
+	},
+	{
+		"item":"ARC-8681 / 8088-FC / ARC-92xx-Fibre firmware (16G Fibre-to-SAS)",
+		"route":"https://www.areca.us/support/download/storage/fw/ARC-8681_fw.zip",
+		"version":"1.56",
+		"date":"2020/05/14",
+		"remark":"Support new flash chip"
+	},
+	{
+		"item":"ARC-8780 / 8088-iSCSI / ARC-92xx-iSCSI firmware (12G iSCSI-to-SAS)",
+		"route":"https://www.areca.us/support/download/storage/fw/ARC-8780_fw.zip",
+		"version":"1.56",
+		"date":"2020/06/05",
+		"remark":"Support new flash chip"
+	}
+]
+

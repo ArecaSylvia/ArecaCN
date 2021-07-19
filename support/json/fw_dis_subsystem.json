@@ -1,0 +1,136 @@
+[
+	{
+		"item":"ARC-5010 firmware",
+		"route":"https://www.areca.us/support/download/storage/fw/ARC-5010_fw.zip",
+		"version":"1.45",
+		"date":"2008/03/14",
+		"remark":""
+	},
+	{
+		"item":"ARC-5020 firmware",
+		"route":"https://www.areca.us/support/download/storage/fw/ARC-5020_fw.zip",
+		"version":"1.50",
+		"date":"2012/03/05",
+		"remark":""
+	},
+	{
+		"item":"ARC-5030 firmware",
+		"route":"https://www.areca.us/support/download/storage/fw/ARC-5030_fw.zip",
+		"version":"1.50",
+		"date":"2010/12/08",
+		"remark":""
+	},
+	{
+		"item":"ARC-5033 firmware",
+		"route":"https://www.areca.us/support/download/storage/fw/ARC-5033_fw.zip",
+		"version":"1.50",
+		"date":"2012/03/05",
+		"remark":""
+	},
+	{
+		"item":"ARC-5040 firmware",
+		"route":"https://www.areca.us/support/download/storage/fw/ARC-5040_fw.zip",
+		"version":"1.52",
+		"date":"2015/07/30",
+		"remark":"Fix USB 3.0 greater than 2TB flag detective issue on Macbooks or Notebooks which are built 2014 or newer."
+	},
+	{
+		"item":"ARC-5060 firmware",
+		"route":"https://www.areca.us/support/download/storage/fw/ARC-5060_fw.zip",
+		"version":"1.49",
+		"date":"2011/02/14",
+		"remark":""
+	},
+	{
+		"item":"ARC-6010 firmware",
+		"route":"https://www.areca.us/support/download/storage/fw/ARC-6010_fw.zip",
+		"version":"1.45",
+		"date":"2008/03/14",
+		"remark":""
+	},
+	{
+		"item":"ARC-6020 firmware",
+		"route":"https://www.areca.us/support/download/storage/fw/ARC-6020_fw.zip",
+		"version":"1.49",
+		"date":"2010/12/08",
+		"remark":""
+	},
+	{
+		"item":"ARC-6060 firmware (2G Fibre)",
+		"route":"https://www.areca.us/support/download/storage/fw/ARC-6060_2F_fw.zip",
+		"version":"1.46",
+		"date":"2009/01/06",
+		"remark":""
+	},
+	{
+		"item":"ARC-6060 firmware (4G Fibre)",
+		"route":"https://www.areca.us/support/download/storage/fw/ARC-6060_4F_fw.zip",
+		"version":"1.46",
+		"date":"2009/01/06",
+		"remark":""
+	},
+	{
+		"item":"ARC-6060 firmware (SAS)",
+		"route":"https://www.areca.us/support/download/storage/fw/ARC-6060_SAS_fw.zip",
+		"version":"1.46",
+		"date":"2009/01/06",
+		"remark":""
+	},
+	{
+		"item":"ARC-6060 firmware (SCSI)",
+		"route":"https://www.areca.us/support/download/storage/fw/ARC-6060_SCSI_fw.zip",
+		"version":"1.46",
+		"date":"2009/01/06",
+		"remark":""
+	},
+	{
+		"item":"ARC-8360 firmware",
+		"route":"https://www.areca.us/support/download/storage/fw/ARC-8360_fw.zip",
+		"version":"1.50",
+		"date":"2012/01/16",
+		"remark":"ARC-8060 (2-Port 3Gb SAS)"
+	},
+	{
+		"item":"ARC-8660 firmware",
+		"route":"https://www.areca.us/support/download/storage/fw/ARC-8660_fw.zip",
+		"version":"1.50",
+		"date":"2012/01/16",
+		"remark":"ARC-8060 (2-Port 4Gb FC)"
+	},
+	{
+		"item":"ARC-8367 firmware",
+		"route":"https://www.areca.us/support/download/storage/fw/ARC-8367_fw.zip",
+		"version":"1.56",
+		"date":"2019/07/30",
+		"remark":"ARC-8007 (2-Port 6Gb SAS)"
+	},
+	{
+		"item":"ARC-8667 firmware",
+		"route":"https://www.areca.us/support/download/storage/fw/ARC-8667_fw.zip",
+		"version":"1.56",
+		"date":"2019/07/30",
+		"remark":"ARC-8007 (4-Port 8Gb FC)"
+	},
+	{
+		"item":"ARC-8668 firmware",
+		"route":"https://www.areca.us/support/download/storage/fw/ARC-8668_fw.zip",
+		"version":"1.56",
+		"date":"2019/07/30",
+		"remark":"ARC-8007 (2-Port 16Gb FC)"
+	},
+	{
+		"item":"ARC-8040 firmware",
+		"route":"https://www.areca.us/support/download/storage/fw/ARC-8040_fw.zip",
+		"version":"1.55",
+		"date":"2018/03/23",
+		"remark":""
+	},
+	{
+		"item":"Firmware Update Process",
+		"route":"docs/FirmwareUpdateProcess-External.pdf",
+		"type":"pdf",
+		"version":"<img src=\"img/downloads/icon_pdf.png\" style=\"width: 20px;\">",
+		"date":"",
+		"remark":""
+	}
+]

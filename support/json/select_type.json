@@ -1,0 +1,70 @@
+{
+	"Tri-mode SAS/SATA/NVMe RAID Adapters":{
+		"700":"Product Select",
+		"701":"ARC-1886 series",
+		"702":"ARC-1886-xNxI"
+	},
+	"SAS/SATA RAID Adapters/Mezzanine Adapters":{
+		"100":"Product Select",
+		"101":"ARC-1110",
+		"102":"ARC-1120",
+		"103":"ARC-1203 series",
+		"104":"ARC-1214/1224",
+		"105":"ARC-1264/1284",
+		"106":"ARC-1216/1226",
+		"107":"ARC-1680P",
+		"108":"ARC-1882 series",
+		"109":"ARC-1883 series",
+		"110":"ARC-1883P",
+		"111":"ARC-1884ixl series",
+		"1**":"Discontinued Products"
+	},
+	"SAS Non-RAID Adapters":{
+		"200":"Product Select",
+		"201":"ARC-1320",
+		"202":"ARC-1330"
+	},
+	"RAID Subsystem/External RAID Solution":{
+		"300":"Product Select",
+		"301":"ARC-5066",
+		"302":"ARC-8042",
+		"303":"ARC-8050U3-6",
+		"304":"ARC-8068",
+		"305":"ARC-8008/8088 series",
+		"306":"ARC-71xx series",
+		"307":"ARC-72xx series",
+		"308":"ARC-92xx series",
+		"3**":"Discontinued Products"
+	},
+	"JBOD/Expander Box":{
+		"400":"Product Select",
+		"401":"ARC-8018/ARC-8028",
+		"402":"ARC-4038-8",
+		"403":"ARC-4038-12",
+		"404":"ARC-4038ML",
+		"405":"ARC-72xx JBOD",
+		"406":"ARC-92xx JBOD",
+		"4**":"Discontinued Products"
+	},
+	"Thunderbolt Solutions":{
+		"500":"Product Select",
+		"501":"ARC-4320T2",
+		"502":"ARC-4607T2",
+		"503":"ARC-4883T2/4883T3",
+		"504":"ARC-4108T3",
+		"505":"ARC-4607T3",
+		"506":"ARC-5026/ARC-5028T2",
+		"507":"ARC-8050/ARC-8050T2",
+		"508":"ARC-8050T3-4",
+		"509":"ARC-8050T3U-4/4A",
+		"510":"ARC-8050T3-6/6M/8/12",
+		"511":"ARC-8050T3U-6/6M/8/12",
+		"512":"ARC-8050T3-12R/16R/24R",
+		"513":"ARC-8050T3 SAN"
+	},
+	"LCD & Accessories":{
+		"600":"Product Select",
+		"601":"ARC-1009/1035(LCD Manual)",
+		"602":"ARC-CD2I"
+	}
+}

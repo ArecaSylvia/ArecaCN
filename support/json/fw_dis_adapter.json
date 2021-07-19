@@ -1,0 +1,137 @@
+[
+	{
+		"item":"ARC-1130 firmware",
+		"route":"https://www.areca.us/support/download/adapter/fw/ARC-1130.zip",
+		"version":"1.49",
+		"date":"2010/12/02",
+		"remark":""
+	},
+	{
+		"item":"ARC-1160 firmware",
+		"route":"https://www.areca.us/support/download/adapter/fw/ARC-1160.zip",
+		"version":"1.49",
+		"date":"2010/12/02",
+		"remark":""
+	},
+	{
+		"item":"ARC-1170 firmware",
+		"route":"https://www.areca.us/support/download/adapter/fw/ARC-1170.zip",
+		"version":"1.49",
+		"date":"2010/12/02",
+		"remark":""
+	},
+	{
+		"item":"ARC-1200 firmware",
+		"route":"https://www.areca.us/support/download/adapter/fw/ARC-1200.zip",
+		"version":"1.51",
+		"date":"2016/04/19",
+		"remark":"Fix Atom M/B windows boot compatible issue"
+	},
+	{
+		"item":"ARC-1201/1202 firmware",
+		"route":"https://www.areca.us/support/download/adapter/fw/ARC-1201_1202.zip",
+		"version":"1.51",
+		"date":"2015/02/16",
+		"remark":"Support 4K Native HDD"
+	},
+	{
+		"item":"ARC-1210 firmware",
+		"route":"https://www.areca.us/support/download/adapter/fw/ARC-1210.zip",
+		"version":"1.49",
+		"date":"2010/12/02",
+		"remark":""
+	},
+	{
+		"item":"ARC-1212/1222 firmware",
+		"route":"https://www.areca.us/support/download/adapter/fw/ARC-1212_1222.zip",
+		"version":"1.51",
+		"date":"2012/07/04",
+		"remark":""
+	},
+	{
+		"item":"ARC-1220 firmware",
+		"route":"https://www.areca.us/support/download/adapter/fw/ARC-1220.zip",
+		"version":"1.49",
+		"date":"2010/12/02",
+		"remark":""
+	},
+	{
+		"item":"ARC-1221 firmware",
+		"route":"https://www.areca.us/support/download/adapter/fw/ARC-1221.zip",
+		"version":"1.49",
+		"date":"2010/12/02",
+		"remark":""
+	},
+	{
+		"item":"ARC-1230 firmware",
+		"route":"https://www.areca.us/support/download/adapter/fw/ARC-1230.zip",
+		"version":"1.49",
+		"date":"2010/12/02",
+		"remark":""
+	},
+	{
+		"item":"ARC-1231 firmware",
+		"route":"https://www.areca.us/support/download/adapter/fw/ARC-1231.zip",
+		"version":"1.49",
+		"date":"2010/12/02",
+		"remark":""
+	},
+	{
+		"item":"ARC-1260 firmware",
+		"route":"https://www.areca.us/support/download/adapter/fw/ARC-1260.zip",
+		"version":"1.49",
+		"date":"2010/12/02",
+		"remark":""
+	},
+	{
+		"item":"ARC-1261 firmware",
+		"route":"https://www.areca.us/support/download/adapter/fw/ARC-1261.zip",
+		"version":"1.49",
+		"date":"2010/12/02",
+		"remark":""
+	},
+	{
+		"item":"ARC-12x3/1880 firmware",
+		"route":"https://www.areca.us/support/download/adapter/fw/ARC-1880_1213_1223.zip",
+		"version":"1.56",
+		"date":"2019/07/30",
+		"remark":"1. Patch HGST G3 enclosure SES2 firmware update problem<br>2. Seagate XS960SE70004 firm rev 002, 960GB SSD problem<br>3. Add progress % for some http operation<br>4. Fix SEAGATE 84bay JBOD does not report slot string<br>5. Improve FAIL_DRIVE_IF_MANY_ERROR"
+	},
+	{
+		"item":"ARC-12x5 / 1882 / 8050 / 8050T2 / 8050E firmware",
+		"route":"https://www.areca.us/support/download/adapter/fw/ARC-1882.zip",
+		"version":"1.56",
+		"date":"2021/01/13",
+		"remark":"1. Patch HGST G3 enclosure SES2 firmware update problem<br>2. Seagate XS960SE70004 firm rev 002, 960GB SSD problem<br>3. Add progress % for some http operation<br>4. Fix SEAGATE 84bay JBOD does not report slot string<br>5. Improve FAIL_DRIVE_IF_MANY_ERROR"
+	},
+	{
+		"item":"ARC-1280 firmware",
+		"route":"https://www.areca.us/support/download/adapter/fw/ARC-1280.zip",
+		"version":"1.49",
+		"date":"2010/12/02",
+		"remark":""
+	},
+	{
+		"item":"ARC-1680",
+		"route":"https://www.areca.us/support/download/adapter/fw/ARC-1680.zip",
+		"version":"1.51",
+		"date":"2012/07/04",
+		"remark":""
+	},
+	{
+		"item":"Firmware Update Process",
+		"route":"docs/FirmwareUpdateProcess.pdf",
+		"type":"pdf",
+		"version":"<img src=\"img/downloads/icon_pdf.png\" style=\"width: 20px;\">",
+		"date":"",
+		"remark":""
+	},
+	{
+		"item":"DosFlash",
+		"route":"utility/DosFlash.zip",
+		"type":"zip",
+		"version":"1.54",
+		"date":"2017/07/17",
+		"remark":"DOS utility for firmware update"
+	}
+]

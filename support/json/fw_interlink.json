@@ -1,0 +1,52 @@
+[
+	{
+		"item":"ARC-12x3 / 1880 firmware",
+		"route":"https://www.areca.us/support/download/adapter/fw/ARC-1880_1213_1223.zip",
+		"version":"1.56",
+		"date":"2019/07/30",
+		"remark":"1. Patch HGST G3 enclosure SES2 firmware update problem<br>2. Seagate XS960SE70004 firm rev 002, 960GB SSD problem<br>3. Add progress % for some http operation<br>4. Fix SEAGATE 84bay JBOD does not report slot string<br>5. Improve FAIL_DRIVE_IF_MANY_ERROR"
+	},
+	{
+		"item":"ARC-12x4 &<br>ARC-5026 / 5028T2 / 8050T3-4 / 8050T3U-4 firmware",
+		"route":"https://www.areca.us/support/download/adapter/fw/ARC-1214.zip",
+		"version":"1.56",
+		"date":"2020/01/30",
+		"remark":"1. Seagate XS960SE70004 firm rev 002, 960GB SSD problem<br>2. Add progress % for some http operation<br>3. Improve FAIL_DRIVE_IF_MANY_ERROR<br>4. Thunderbolt, add host sleep request and thunderbolt power response"
+	},
+	{
+		"item":"ARC-12x5 / 1882 / 8050 / 8050T2 / 8050E firmware",
+		"route":"https://www.areca.us/support/download/adapter/fw/ARC-1882.zip",
+		"version":"1.56",
+		"date":"2021/01/13",
+		"remark":"1. Patch HGST G3 enclosure SES2 firmware update problem<br>2. Seagate XS960SE70004 firm rev 002, 960GB SSD problem<br>3. Add progress % for some http operation<br>4. Fix SEAGATE 84bay JBOD does not report slot string<br>5. Improve FAIL_DRIVE_IF_MANY_ERROR<br>6. Thunderbolt, add host sleep request and thunderbolt power response<br>7. Fix M1 goes to sleep, 8050T1/T2 starts every 1 minute and switches off again"
+	},
+	{
+		"item":"ARC-12x6 / 1883 / 4883T2 &<br>ARC-8050T3 / 8050T3U / 8050U3-6 firmware",
+		"route":"https://www.areca.us/support/download/adapter/fw/ARC-1883.zip",
+		"version":"1.56",
+		"date":"2021/07/12",
+		"remark":"1. Seagate XS960SE70004 firm rev 002, 960GB SSD problem<br>2. Add progress % for some http operation<br>3. Improve FAIL_DRIVE_IF_MANY_ERROR<br>4. Thunderbolt, add host sleep request and thunderbolt power response<br>5. Patch HGST G3 enclosure SES2 firmware update problem<br>6. Fix SEAGATE 84bay JBOD does not report slot string<br>*********************************************************<br>☆ For ARC-1883x <a href=\"https://www.areca.com.tw/support/docs/ARC-1883x-Dual-Path.pdf\" target=\"_blank\">Dual_Path</a><img src=\"img/downloads/icon_pdf.png\" style=\"width: 20px;\"> firmware available <a href=\"https://www.areca.us/support/download/adapter/fw/ARC-1883x.zip\" download>here <img src=\"img/download_icon.svg\" style=\"width: 20px;\"></a>"
+	},
+	{
+		"item":"ARC-1883ix (PCB 1.0) / 8018 / 8028 / 4038-8 / <br>8050T3-12 (PCB B) / 8088 expander / 92xxJBOD firmware",
+		"route":"https://www.areca.us/support/download/storage/fw/ARC-8028_fw.zip",
+		"version":"1.37",
+		"date":"2018/07/18",
+		"remark":"Update by expander CLI command using RJ-11 connector on the I/O bracket not through RAID controller web browser manager or CLI command. This firmware aslo support ARC-8018/8028 expander broad.<br><br>For Chip ID: 0x0233 (Firmware Family: 0)<img src=\"img/downloads/q.gif\">&nbsp;<a href=\"img/downloads/HowToFindFirmwareFamily.jpg\" target=\"_blank\">How to find?</a>"
+	},
+	{
+		"item":"ARC-5066 / 71xx firmware",
+		"route":"https://www.areca.us/support/download/storage/fw/ARC-5066_fw.zip",
+		"version":"1.56",
+		"date":"2019/07/30",
+		"remark":"1. Add progress % for some http operation<br>2. Improve FAIL_DRIVE_IF_MANY_ERROR"
+	},
+	{
+		"item":"ARC-5088 / 8042 / 72xx firmware",
+		"route":"https://www.areca.us/support/download/storage/fw/ARC-5088_fw.zip",
+		"version":"1.56",
+		"date":"2019/07/30",
+		"remark":"1. Patch HGST G3 enclosure SES2 firmware update problem<br>2. Seagate XS960SE70004 firm rev 002, 960GB SSD problem<br>3. Add progress % for some http operation<br>4. Fix SEAGATE 84bay JBOD does not report slot string<br>5. Improve FAIL_DRIVE_IF_MANY_ERROR"
+	}
+]
+

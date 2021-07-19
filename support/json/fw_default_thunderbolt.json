@@ -1,0 +1,26 @@
+[
+	{
+		"item":"Firmware Update Process",
+		"route":"docs/FirmwareUpdateProcess-Thunderbolt.pdf",
+		"type":"pdf",
+		"version":"<img src=\"img/downloads/icon_pdf.png\" style=\"width: 20px;\">",
+		"date":"",
+		"remark":""
+	},
+	{
+		"item":"Firmware release note",
+		"route":"docs/release_note_1.56-20190730.txt",
+		"type":"txt",
+		"version":"1.56",
+		"date":"2019/07/30",
+		"remark":""
+	},
+	{
+		"item":"DosFlash",
+		"route":"utility/DosFlash.zip",
+		"type":"zip",
+		"version":"1.54",
+		"date":"2017/07/17",
+		"remark":"DOS utility for firmware update"
+	}
+]

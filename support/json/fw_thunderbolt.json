@@ -1,0 +1,17 @@
+[
+	{
+		"item":"ARC-4607T2 / 4607T3 firmware",
+		"route":"https://www.areca.us/support/download/storage/fw/ARC-4607T2_fw.zip",
+		"version":"8.0.3",
+		"date":"2017/02/02",
+		"remark":""
+	},
+	{
+		"item":"ARC-8050T3 SAN firmware (ARC-1885 & ARC-1006)",
+		"route":"https://www.areca.us/support/download/storage/fw/ARC-8050_san_fw.zip",
+		"version":"1.56",
+		"date":"2019/07/30",
+		"remark":"1. Patch HGST G3 enclosure SES2 firmware update problem<br>2. Seagate XS960SE70004 firm rev 002, 960GB SSD problem<br>3. Add progress % for some http operation<br>4. Fix SEAGATE 84bay JBOD does not report slot string<br>5. Improve FAIL_DRIVE_IF_MANY_ERROR<br>6. Thunderbolt, add host sleep request and thunderbolt power response"
+	}
+]
+

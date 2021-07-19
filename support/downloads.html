@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+<html lang="">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+		<meta name="keywords" content="areca, driver, archttp, firmware, raid, hba, storage, jbod" />
+		<title>Support & Downloads | Areca Technology</title>
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css">
+		<link rel="stylesheet" href="../css/downloads.css">
+		<!--[if lt IE 9]>
+			<script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+			<script src="https://cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js"></script>
+		<![endif]-->
+
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-176706662-1"></script>
+		<script>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  gtag('js', new Date());
+
+		  gtag('config', 'UA-176706662-1');
+		</script>
+		<script type="text/javascript">
+			function(){
+			/*全局禁用cache緩存*/
+			  $(document).ready(function() {
+			    $.ajaxSetup({ cache: false });
+			  });
+			}
+		</script>
+		
+	</head>
+	<body>
+
+
+
+	<!-- =======================================navbar 導覽列============================================ -->
+		<nav class="navbar navbar-default navbar-fixed-top" role="navigation" id="navbar"></nav>
+
+
+
+
+	<!-- =======================================Search_window 全站搜尋鈕_開啟視窗======================== -->
+		<div class="modal fade" id="modal-search"></div>
+		
+
+
+
+
+
+
+<header class="jumbotron">
+  <div class="bgbanner"></div>
+  <div class="container">
+    <h1>Downloads Center</h1>
+    <hr/>
+  </div>
+</header>
+
+	
+	
+<h1 class="displaynone">Areca 廣安科技</h1>
+
+
+
+<!-- =======================================主內容區========================================= -->
+<div id="contentContainer">
+
+
+
+				
+	<div class="container">
+		<p class="text-warning">
+		<img src="img/catalog_cover.jpg" width="35" height="50"/>
+		&nbsp;&nbsp;<b>2019 Areca Products Catalog</b>&nbsp;&nbsp;
+			<a href="https://www.areca.us/support/download/2019catalog.pdf" target="_blank">
+				<i class="glyphicon glyphicon-eye-open"></i> Online Preview
+			</a>&nbsp;&nbsp;&nbsp;
+			<a href="https://www.areca.us/support/download/2019catalog.pdf" download>
+				<i class="fa fa-download"></i> Download PDF
+			</a>
+		</p>
+		<div class="row">
+			<div class="col-xs-12 col-sm-12">
+				<h5 style="color:#333;">
+					Areca provides the latest version of Firmware, Bios, Driver, Utilities, Datasheet... available for download. You can select an option to obtain the file to upgrade it or find the document you need. If you want to download older version, please go <a href="ftp://ftp.areca.com.tw/">ftp://ftp.areca.com.tw/</a> or mirror site <a href="ftp://areca.starline.de/">ftp://areca.starline.de/</a>
+				</h5>
+			</div>
+		</div>
+				<p class="h5" style="color:#333;">
+				 <img src="../img/icon_pdf.png" width="25" height="25"/> 
+				 <a href="https://www.areca.us/support/download/Downloadable_Software_Licenses.pdf" download> &nbsp;&nbsp;Downloadable Software Licenses&nbsp;&nbsp;<i class="fa fa-download"></i></a>
+				</p>
+	</div>
+
+
+
+
+	<!-- ======================聯動表單選擇器========================== -->
+	<div class="container mrt15 mrb15">
+		<div class="row">
+			<div class="col-xs-12 col-sm-4 form-group">
+					<label for="type" class="control-label">Component Type</label>
+					<select name='type' id='type' size='1' class="form-control">
+				        <option value='0' selected>Product Select</option>
+				    </select>
+			</div>
+			<div class="col-xs-12 col-sm-4 form-group">
+					<label for="subtype" class="control-label">Model name</label>
+					<select name='subtype' id='subtype' size='1' class="form-control">
+					</select>
+			</div>
+			<div class="col-xs-12 col-sm-4 form-group">
+					<label for="itemtype" class="control-label">Item Type</label>
+					<select name='itemtype' id='itemtype' size='1' class="form-control">
+					</select>
+			</div>
+				
+		</div>
+	</div>
+
+
+
+
+	
+
+
+
+	<!-- ==========聯動按鈕_Item Type為driver時觸發選擇Operating System========== -->
+	<div class="container">
+		<div class="row">
+			<div class="col-xs-12 col-sm-10 col-sm-offset-1 hidden" id="os_select">
+				<div class="btn-group">
+				  <button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+				    Operating System Select<span class="caret"></span>
+				  </button>
+				  <ul class="dropdown-menu">
+				  </ul>
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+	<!-- ==========Linux Distribution OS========== -->
+	<div class="container mrt15 mrb15">
+		<div class="row">
+			<div class="col-xs-12 col-sm-10 col-sm-offset-1 hidden" id="os_linux_select">
+				<div class="btn-group">
+				  <button type="button" class="btn btn-info dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+				    Distribution OS Select<span class="caret"></span>
+				  </button>
+				  <ul class="dropdown-menu">
+				  	<li><a href="#">Linux</a></li>
+				    <li><a href="#">Debian</a></li>
+				    <li><a href="#">Fedora</a></li>
+				    <li><a href="#">OpenSUSE</a></li>
+				    <li><a href="#">RHEL</a></li>
+				    <li><a href="#">Suse-SLES</a></li>
+				    <li><a href="#">Ubuntu</a></li>
+				  </ul>
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+
+
+	<!-- ==========dataTable========== -->
+	<div class="container">
+		<div class="row">
+			<div class="col-xs-12 col-sm-10 col-sm-offset-1 hidden" id="dataTable">
+					<div class="panel panel-default panel-primary">
+					  <!-- Default panel contents -->
+					  <div class="panel-heading"></div>
+					  
+
+					  <!-- Table -->
+					  <table class="table table-hover table-responsive">
+					    <thead>
+					    	<tr>
+					    		<th class="col-xs-4 col-sm-4">Item</th>
+					    		<th class="col-xs-1">Version</th>
+					    		<th class="col-xs-2">Release Date</th>
+					    		<th class="col-xs-3 col-sm-5">Remark</th>
+					    	</tr>
+					    </thead>
+					    <tbody>
+
+					    </tbody>
+					  </table>
+					</div>
+			</div>
+		</div>
+	</div>
+
+
+
+
+
+	<!-- ==========driverTable========== -->
+	<div class="container">
+		<div class="row">
+			<div class="col-xs-12 col-sm-10 col-sm-offset-1 hidden" id="driverTable">
+				<div class="panel-group" id="accordion2" role="tablist" aria-multiselectable="true">
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="container">
+		<div class="row">
+			<div class="col-xs-12 col-sm-10 col-sm-offset-1 hidden" id="driverTable02">
+				<p class="h5" style="color:#333;">
+				 <img src="../img/icon_pdf.png" width="25" height="25"/> 
+				 <a href="https://www.areca.us/support/download/Downloadable_Software_Licenses.pdf" download> &nbsp;&nbsp;Downloadable Software Licenses&nbsp;&nbsp;<i class="fa fa-download"></i></a>
+				</p>
+			</div>
+		</div>
+	</div>
+
+
+
+
+
+	<!-- ==========manualTable========== -->
+	<div class="container">
+		<div class="row">
+			<div class="col-xs-12 col-sm-10 col-sm-offset-1 hidden" id="manualTable">
+					<div class="panel panel-default panel-primary">
+					  <!-- Default panel contents -->
+					  <div class="panel-heading"></div>
+					  
+
+					  <!-- Table -->
+					  <div class="manualTable">
+					  </div>
+
+
+					</div>
+			</div>
+		</div>
+	</div>
+
+
+
+	<!-- ==========manualTable for discontinued products========== -->
+	<div class="container">
+		<div class="row">
+			<div class="col-xs-12 col-sm-10 col-sm-offset-1 hidden" id="manualTable02">
+					<div class="panel panel-default panel-primary">
+					  <!-- Default panel contents -->
+					  <div class="panel-heading"></div>
+					  
+
+					  <!-- Table -->
+					  <table class="table table-hover table-responsive">
+					    <thead>
+					    	<tr>
+					    		<th class="col-xs-4 col-sm-4">Item</th>
+					    		<th class="col-xs-1">Version</th>
+					    		<th class="col-xs-2">Release Date</th>
+					    	</tr>
+					    </thead>
+					    <tbody>
+
+					    </tbody>
+					  </table>
+					</div>
+			</div>
+		</div>
+	</div>
+
+
+
+
+
+
+	
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+	<!-- =======================================Footer_頁尾============================================ -->
+<footer id="footer"></footer>
+
+
+
+
+
+		<script src="../js/jquery-3.3.1.min.js"></script>
+		<script src="../js/jquery.mobile.custom.min.js"></script>
+		<script defer src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
+		<!-- <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script> -->
+		<script defer src="../js/downloads_new.js"></script>
+		<script src="../js/default.js"></script><!-- 統一載入頁首頁尾 -->
+		<script type="text/javascript">
+		    /*Linux sub OS*/
+		    function subos_select(x){
+		      console.log(x)
+		      $('.debian').not('hidden').addClass('hidden')
+		      $('.fedora').not('hidden').addClass('hidden')
+		      $('.suse').not('hidden').addClass('hidden')
+		      $('.rhel').not('hidden').addClass('hidden')
+		      $('.oracle').not('hidden').addClass('hidden')
+		      $('.sles').not('hidden').addClass('hidden')
+		      $('.ubuntu').not('hidden').addClass('hidden')
+		      $('.'+x).removeClass('hidden')
+		    }
+		</script>
+
+	</body>
+</html>

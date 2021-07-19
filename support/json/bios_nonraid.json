@@ -1,0 +1,45 @@
+[
+	{},
+	{
+		"item":"ARC-1320 BIOS",
+		"route":"https://www.areca.us/support/download/adapter/bios/ARC-1320BIOS.zip",
+		"version":"2.0",
+		"date":"2019/09/06",
+		"remark":"<a href=\"https://www.areca.us/support/download/adapter/bios/oflash.zip\">Update BIOS Utility</a>"
+	},
+	{
+		"item":"ARC-1320 EFI BIOS",
+		"route":"https://www.areca.us/support/download/adapter/bios/EBC_132X.zip",
+		"version":"zip",
+		"date":"2012/05/25",
+		"remark":"Bootable drive support for Intel-based Apple Mac Pro"
+	},
+	{
+		"item":"ARC-1330 BIOS",
+		"route":"https://www.areca.us/support/download/adapter/bios/ARC-1330BIOS.zip",
+		"version":"2.0",
+		"date":"2019/09/06",
+		"remark":"<a href=\"https://www.areca.us/support/download/adapter/bios/oflash.zip\">Update BIOS Utility</a>"
+	},
+	{
+		"item":"ARC-1330 BIOS (for old Mac Pro)",
+		"route":"https://www.areca.us/support/download/adapter/bios/ARC-1330BIOS_old.zip",
+		"version":"2.0",
+		"date":"2018/05/07",
+		"remark":"<b>NOTE:</b><br> This BIOS is for ARC-1330 installed on the old mac pro that it has PCIe gen 2 slot to get better performance."
+	},
+	{
+		"item":"ARC-1300 BIOS",
+		"route":"https://www.areca.us/support/download/adapter/bios/I13_1300.zip",
+		"version":"zip",
+		"date":"2012/05/30",
+		"remark":"<a href=\"https://www.areca.us/support/download/adapter/bios/oflash.zip\">Update BIOS Utility</a>"
+	},
+	{
+		"item":"ARC-1300 EFI BIOS",
+		"route":"https://www.areca.us/support/download/adapter/bios/EBC_130X.zip",
+		"version":"zip",
+		"date":"2012/05/25",
+		"remark":"<a href=\"https://www.areca.us/support/download/adapter/bios/oflash.zip\">Update BIOS Utility</a>"
+	}
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "item":"HDD Compatiblity List (3Gb)",
+    "route":"https://www.areca.us/support/download/RaidCards/Documents/Hardware/HDDCompatibilityList-3Gb.pdf",
+    "version":"<img src=\"img/downloads/icon_pdf.png\" style=\"width: 20px;\">",
+    "date":"2013/08/06",
+    "remark":"For 3Gb RAID controller"
+  },
+  {
+    "item":"SSD Compatiblity List",
+    "route":"https://www.areca.us/support/download/RaidCards/Documents/Hardware/SSDCompatibilityList.pdf",
+    "version":"<img src=\"img/downloads/icon_pdf.png\" style=\"width: 20px;\">",
+    "date":"2020/10/15",
+    "remark":"Add Kingston SSDNow KC300 & E100 support"
+  },
+  {
+    "item":"HDD Compatiblity List (6Gb/12Gb)",
+    "route":"https://www.areca.us/support/download/RaidCards/Documents/Hardware/HDDCompatibilityList.pdf",
+    "version":"<img src=\"img/downloads/icon_pdf.png\" style=\"width: 20px;\">",
+    "date":"2020/10/15",
+    "remark":"For 6Gb/12Gb RAID controller"
+  },
+  {
+    "item":"SSD Compatiblity List",
+    "route":"https://www.areca.us/support/download/RaidCards/Documents/Hardware/SSDCompatibilityList.pdf",
+    "version":"<img src=\"img/downloads/icon_pdf.png\" style=\"width: 20px;\">",
+    "date":"2020/10/15",
+    "remark":"Add Kingston SSDNow KC300 & E100 support"
+  }
+]

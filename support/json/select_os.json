@@ -1,0 +1,37 @@
+[
+	[
+		"Windows",
+		"Linux",
+		"macOS",
+		"unRAID",
+		"XenServer",
+		"FreeBSD",
+		"OpenBSD",
+		"Solaris",
+		"VMware"
+	],
+	[
+		"Windows",
+		"Linux",
+		"macOS",
+		"unRAID",
+		"XenServer",
+		"Solaris",
+		"illumos",
+		"FreeBSD",
+		"FreeNAS",
+		"NAS4Free"
+	],
+	[
+		"Windows",
+		"Linux",
+		"macOS",
+		"FreeBSD",
+		"Solaris"
+	],
+	[
+		"Windows",
+		"macOS"
+	]
+
+]

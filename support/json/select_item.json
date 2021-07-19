@@ -1,0 +1,48 @@
+{
+	"Tri-mode SAS/SATA/NVMe RAID Adapters":{
+		"fw":"Firmware",
+		"driver":"Driver/Utility", 
+		"compatibility":"Compatibility",
+		"manual":"Manual & Datasheet"
+	},
+	"SAS/SATA RAID Adapters/Mezzanine Adapters":{
+		"fw":"Firmware",
+		"driver":"Driver/Utility", 
+		"compatibility":"Compatibility",
+		"manual":"Manual & Datasheet"
+	},
+	"SAS Non-RAID Adapters":{
+		"fw":"Firmware",
+		"bios":"BIOS",
+		"driver":"Driver/Utility", 
+		"compatibility":"Compatibility",
+		"manual":"Manual & Datasheet"
+	},
+	"RAID Subsystem/External RAID Solution":{
+		"fw":"Firmware",
+		"driver":"Driver/Utility", 
+		"compatibility":"Compatibility",
+		"manual":"Manual & Datasheet"
+	},
+	"JBOD/Expander Box":{
+		"fw":"Firmware",
+		"compatibility":"Compatibility",
+		"manual":"Manual & Datasheet"
+	},
+	"Thunderbolt Solutions":{
+		"fw":"Firmware",
+		"bios":"BIOS",
+		"driver":"Driver/Utility", 
+		"compatibility":"Compatibility",
+		"manual":"Manual & Datasheet"
+	},
+	"Discontinued Products":{
+		"fw":"Firmware",
+		"bios":"BIOS",
+		"driver":"Driver/Utility",
+		"manual":"Manual & Datasheet"
+	},
+	"LCD & Accessories":{
+		"manual":"Manual & Datasheet"
+	}
+}

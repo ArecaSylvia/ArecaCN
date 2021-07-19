@@ -1,0 +1,58 @@
+[
+	{
+		"item":"ARC-1110 firmware",
+		"route":"https://www.areca.us/support/download/adapter/fw/ARC-1110.zip",
+		"version":"1.49",
+		"date":"2010/12/02",
+		"remark":""
+	},
+	{
+		"item":"ARC-1120 firmware",
+		"route":"https://www.areca.us/support/download/adapter/fw/ARC-1120.zip",
+		"version":"1.49",
+		"date":"2010/12/02",
+		"remark":""
+	},
+	{
+		"item":"ARC-1203 series firmware",
+		"route":"https://www.areca.us/support/download/adapter/fw/ARC-1203.zip",
+		"version":"1.56",
+		"date":"2020/11/23",
+		"remark":"1. Add progress % for some http operation<br>2. Improve FAIL_DRIVE_IF_MANY_ERROR<br>3. Add Marvell path for RTC (Read Timing Control) values of PCIe memory wrappers<br>4. Fix SSD detective issue at startup"
+	},
+	{
+		"item":"ARC-1883x firmware (for <a href=\"https://www.areca.com.tw/support/docs/ARC-1883x-Dual-Path.pdf\" target=\"_blank\">Dual_Path</a><img src=\"img/downloads/icon_pdf.png\" style=\"width: 20px;\"> only)",
+		"route":"https://www.areca.us/support/download/adapter/fw/ARC-1883x.zip",
+		"version":"1.56",
+		"date":"2019/07/30",
+		"remark":"1. Patch HGST G3 enclosure SES2 firmware update problem<br>2. Seagate XS960SE70004 firm rev 002, 960GB SSD problem<br>3. Add progress % for some http operation<br>4. Fix SEAGATE 84bay JBOD does not report slot string<br>5. Improve FAIL_DRIVE_IF_MANY_ERROR"
+	},
+	{
+		"item":"ARC-1884ixl series firmware",
+		"route":"https://www.areca.us/support/download/adapter/fw/ARC-1884ixl.zip",
+		"version":"1.56",
+		"date":"2019/07/30",
+		"remark":"1. Patch HGST G3 enclosure SES2 firmware update problem<br>2. Seagate XS960SE70004 firm rev 002, 960GB SSD problem<br>3. Add progress % for some http operation<br>4. Fix SEAGATE 84bay JBOD does not report slot string<br>5. Improve FAIL_DRIVE_IF_MANY_ERROR"
+	},
+	{
+		"item":"ARC-1212 / 1222 firmware",
+		"route":"https://www.areca.us/support/download/adapter/fw/ARC-1212_1222.zip",
+		"version":"1.51",
+		"date":"2012/07/04",
+		"remark":""
+	},
+	{
+		"item":"ARC-1680",
+		"route":"https://www.areca.us/support/download/adapter/fw/ARC-1680.zip",
+		"version":"1.51",
+		"date":"2012/07/04",
+		"remark":""
+	},
+	{
+		"item":"ARC-1886 series firmware",
+		"route":"https://www.areca.us/support/download/adapter/fw/ARC-1886.zip",
+		"version":"1.56",
+		"date":"2021/7/06",
+		"remark":""
+	}
+]

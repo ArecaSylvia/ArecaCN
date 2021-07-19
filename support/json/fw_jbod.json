@@ -1,0 +1,10 @@
+[
+	{
+		"item":"ARC-1883ix (PCB 2.0) / 4038-12 / 72xx JBOD expander / 8011 / 8050T3-12 (PCB 1.0) / 8050T3-12R/24R expander / SAN expander firmware",
+		"route":"https://www.areca.us/support/download/storage/fw/ARC-4038-12_fw.zip",
+		"version":"3.03",
+		"date":"2018/11/28",
+		"remark":"For Chip ID: 0x023C (Firmware Family: 568)<img src=\"img/downloads/q.gif\">&nbsp;<a href=\"img/downloads/HowToFindFirmwareFamily_568.jpg\" target=\"_blank\">How to find?</a>"
+	}
+]
+

@@ -845,6 +845,21 @@
 		<!-- <script defer src="../js/contact.js"></script> --><!-- section_contact的js -->
 		<script defer src="../js/_driver_t2.js"></script><!-- 動態載入driver -->
 
+		<script type="text/javascript">
+		    /*Linux sub OS*/
+		    function subos_select(x){
+		      console.log(x)
+		      $('.debian').not('hidden').addClass('hidden')
+		      $('.openmediavault').not('hidden').addClass('hidden')
+		      $('.fedora').not('hidden').addClass('hidden')
+		      $('.suse').not('hidden').addClass('hidden')
+		      $('.rhel').not('hidden').addClass('hidden')
+		      $('.oracle').not('hidden').addClass('hidden')
+		      $('.sles').not('hidden').addClass('hidden')
+		      $('.ubuntu').not('hidden').addClass('hidden')
+		      $('.'+x).removeClass('hidden')
+		    }
+		</script>
 
 
 
